@@ -84,9 +84,16 @@ table {
 	margin-bottom: -5px;
 }
 
+.bigCheese{
+		color: white;
+		font-weight: bold;
+		font-size: 1.5em;
+		font-family: Oswald;
+}
+
 .blueBox{
 	background-color: #37489E;
-	min-height: 20px;
+	min-height: 50px;
 	margin-top: 0;
 	padding-top: 24px;
 }
@@ -249,13 +256,6 @@ table {
 
 	.mainTitle{
 		margin-top: 4.5em;
-	}
-
-	.bigCheese{
-		color: white;
-		font-weight: bold;
-		font-size: 1.5em;
-		font-family: Oswald;
 	}
 
 	.intro{
