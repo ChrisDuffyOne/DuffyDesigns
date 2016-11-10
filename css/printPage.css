@@ -115,7 +115,7 @@ table {
 		margin-right: auto;
 		max-width: 250px;
 		margin-bottom: 30px;
-	}
+}
 
 .contentItem{
 	display: inline-block;
@@ -302,6 +302,9 @@ table {
 	/* /// Portfolio Div /// */
 	.portContentImage{
  		max-width: 800px;
+ 		display: block;
+ 		margin-left: auto;
+ 		margin-right: auto;
  	}	
 
 }
